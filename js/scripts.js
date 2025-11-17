@@ -177,13 +177,9 @@ const artistGallery = {
         "assets/img/米山舞3.jpg",
     ],
     artistB: [
-        "assets/img/artistB-1.jpg",
-        "assets/img/artistB-2.jpg",
+        "assets/img/MANFUNG-1.jpg",
+        "assets/img/MANFUNG-2.jpg",
     ],
-    artistC: [
-        "assets/img/artistC-1.jpg",
-        "assets/img/artistC-2.jpg",
-    ]
 };
 
 let currentArtist = "artistA";
